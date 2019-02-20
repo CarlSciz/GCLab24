@@ -11,10 +11,12 @@
 </head>
 <h1>Welcome to SLURM Coffee</h1>
 <body>
-
-
 <ul> <li><a href="/register">User Registration</a></li> </ul>
 <ul><li><a href="/drinkslurm">CLICK ME</a></li></ul>
-
+<div>
+<tb>
+<th> </th>
+</tb>
+</div>
 </body>
 </html>
